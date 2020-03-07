@@ -21,7 +21,6 @@ class Dog
   
   def self.all 
     @@all
-    @save
   end 
   
   def self.print_all 
